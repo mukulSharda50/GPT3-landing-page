@@ -1,0 +1,98 @@
+.gpt3__header-container{
+    display: flex;
+    align-items: flex-start;
+    padding: 0 0 1rem 3rem;
+    /* border: 2px solid pink; */
+}
+.gpt3__header-content{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin-top: 3rem;
+    flex: 1;
+    /* border: 2px solid plum; */
+    
+}
+.gpt3__header-content h1{
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 52px;
+    line-height: 65px;
+
+    letter-spacing: -0.04em;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    width: 100%;
+}
+.gpt3__header-content p{
+    width: 554px;
+    font-family: 'Manrope';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #81AFDD;
+    margin: 1.5rem 0;
+    /* border: 2px solid red; */
+}
+.gpt3__header-img{
+    width: 537.41px;
+    height: 551.59px;
+    /* border: 2px solid red; */
+}
+.gpt3__header-img img{
+    flex: 1;
+    width: 100%;
+    height: 100%;
+}
+.gpt3__header-form{
+    width: 630px;
+    height: 53px;
+    display: flex;
+    align-items: center;
+    /* border: 2px solid purple; */
+}
+.gpt3__header-form > input[type="text"]{
+    width: 80%;
+    height: 100%;
+    padding: 1rem;
+    background-color: #052D56;
+    outline: none;
+    border: none;
+    font-family: 'Manrope';
+    font-size: 20px;
+    line-height: 27px;
+    color: #3D6184;
+}
+.gpt3__header-form > input[type="button"]{
+    background: #FF4820;
+    color: #fff;
+    width: 20%;
+    height: 100%;
+    border: none;
+    outline: none;
+    border-radius: 0 5px 5px 0;
+}
+.gpt3__header-people-signed{
+    /* border: 2px solid red; */
+    width: 577.29px;
+    height: 39.61px;
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+}
+.gpt3__header-people-signed img{
+    width: 181.79px;
+    height: 38px;
+}
+.gpt3__header-people-signed p{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 38px;
+    color: #FFFFFF;
+    /* border: 1px solid white; */
+    margin-left: 1rem;
+}

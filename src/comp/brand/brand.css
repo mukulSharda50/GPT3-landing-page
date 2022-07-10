@@ -1,0 +1,7 @@
+.gpt3__brands-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    /* border: 2px solid red; */
+}
