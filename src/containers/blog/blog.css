@@ -3,6 +3,7 @@
     flex-direction: column;
     /* border: 2px solid red; */
     /* overflow: hidden; */
+    padding: 3rem 7.5rem;
 }
 
 .gpt3__blog-container h2{

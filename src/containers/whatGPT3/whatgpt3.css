@@ -1,8 +1,9 @@
 .gpt3__wgpt3-container{
     min-height: 500px;
-    /* max-width: 1000px;  */
     color: #fff;
     background-color: #0F4279;
+    padding: 3rem 5.5rem 0 7.5rem;
+    margin: 3rem 7.5rem 0 7.5rem;
 }
 
 .gpt3__wgpt3-headline{
@@ -35,5 +36,6 @@
 }
 .gpt3__wgpt3-row{
     display: flex;
+    /* flex-wrap: ; */
     /* border: 2px solid red; */
 }

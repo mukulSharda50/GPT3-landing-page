@@ -3,6 +3,7 @@
     justify-content: space-around;
     align-items: center;
     font-family: 'Manrope';
+    padding: 3rem 7.5rem;
 }
 .gpt3__possibility-img{
     width: 100%;

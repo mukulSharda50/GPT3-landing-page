@@ -1,5 +1,6 @@
 .gpt3__features-container{
     display: flex;
+    padding: 3rem 7.5rem;
 }
 .gpt3__features-title{
     font-family: 'Manrope';
