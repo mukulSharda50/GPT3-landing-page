@@ -38,7 +38,7 @@ const Footer = () => {
 
   const contactLinks = [
     {
-      id: 1,
+      id: 1,    /* border: 2px solid red; */
       title: "Crechterwoord K12 182 DK Alknjkcb" 
     },
     {
