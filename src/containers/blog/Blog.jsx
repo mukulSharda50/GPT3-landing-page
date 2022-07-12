@@ -1,10 +1,11 @@
-import './blog.css';
+import "./blog.css";
 
 const Blog = () => {
-    return (
-        <div>
-            Blog
-        </div>
-    );
-}
+  return (
+    <>
+      hello hello hello
+      <div></div>
+    </>
+  );
+};
 export default Blog;

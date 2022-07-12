@@ -1,41 +1,37 @@
-.gpt3__wgpt3-container{
-    min-height: 500px;
-    /* max-width: 1000px;  */
-    color: #fff;
-    background-color: #0F4279;
-    padding: 2rem 6rem;
-    margin: 8rem 4rem 5rem 4rem;
-}
-
-.gpt3__wgpt3-headline{
-    margin: 5rem 0;
+.gpt3__features-container{
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    padding-right: 3rem ;
+    margin: 0 0.5rem 1rem 4rem;
 }
-.gpt3__wgpt3-title{
-    width: 50%;
+.gpt3__features-title{
     font-family: 'Manrope';
+    font-style: normal;
     font-weight: 800;
     font-size: 34px;
     line-height: 45px;
+
+    /* or 132% */
 
     background: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%), #FFFFFF;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
-.gpt3__wgpt3-explore{
-
+.gpt3__features{
+    flex: 1;
+}
+.gpt3__features > p{
     font-family: 'Manrope';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 30px;
+
+    /* identical to box height, or 188% */
+
     color: #FF8A71;
-    cursor: pointer;
 }
-.gpt3__wgpt3-row{
-    display: flex;
-    /* border: 2px solid red; */
+.gpt3__features-feature{
+    flex: 2;
+    /* border: 2px solid pink; */
 }
