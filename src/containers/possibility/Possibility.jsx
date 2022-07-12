@@ -3,7 +3,7 @@ import woman from "../../assets/woman.png";
 
 const Possibility = () => {
   return (
-    <div className="gpt3__possibility-container">
+    <div className="gpt3__possibility-container" id="openAI">
       <img src={woman} alt={woman} />
       <div className="gpt3__possibility-content">
         <p>Request Early Access to Get Started</p>

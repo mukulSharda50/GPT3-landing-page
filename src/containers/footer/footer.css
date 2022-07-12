@@ -1,0 +1,80 @@
+/* @import url('../../assets/fonts/Gilroy-Medium.ttf'); */
+.gpt3__footer-container{
+    background: #031B34;
+    margin-top: 10rem;
+    height: 100%;
+}
+.gpt3-footer-heading-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gpt3__footer-heading{
+    width: 50%;
+}
+.gpt3__footer-container h2{
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+
+    text-align: center;
+    letter-spacing: -0.04em;
+
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    padding: 8rem 5rem 3rem 5rem;
+    /* width: 50%; */
+    text-align: center;
+}
+.gpt3__footer-btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gpt3__footer-btn{
+    padding: 0.85rem 1rem;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    border: 1px solid white;
+    /* outline: white; */
+    background-color: transparent;
+    cursor: pointer;
+    margin-bottom: 7rem;
+}
+.gpt3__footer-btn-text{
+    font-family: 'Manrope';
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.gpt__footer-sec{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 5rem 2rem 5rem;
+    color: #fff;
+    padding-bottom: 3rem;
+}
+.gpt3__footer-logo{
+    width: 168px;
+    height: 85px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.gpt3__footer-logo  p{
+    text-align: left;
+}
+.gpt3__footer-container p:last-child{
+    padding-bottom: 1rem;
+    color: #fff;
+    font-family: 'Manrope';
+    font-size: 12px;
+    line-height: 14px;
+    font-feature-settings: 'liga' off;
+    text-align: center;
+}

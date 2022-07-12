@@ -1,7 +1,6 @@
 .gpt3__header-container{
     display: flex;
     align-items: flex-start;
-    padding: 0 0 1rem 3rem;
     /* border: 2px solid pink; */
 }
 .gpt3__header-content{

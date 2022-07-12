@@ -1,9 +1,9 @@
 import "./navbar.css";
-import logo from "../../assets/logo.png";
+import GPTlogo from "../../assets/GPTlogo.svg";
 const Navbar = () => {
   return (
     <div className="gpt3__navbar-container">
-      <img src={logo} alt="gpt3" />
+      <img src={GPTlogo} alt="gpt3" />
       <ul className="gpt3__navbar-navlinks">
         <li>
           <a href="#home">Home</a>

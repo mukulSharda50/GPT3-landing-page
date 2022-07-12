@@ -3,13 +3,6 @@
     justify-content: space-around;
     align-items: center;
     font-family: 'Manrope';
-    padding: 2rem 6rem;
-}
-.gpt3__possibility-img{
-
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
 }
 .gpt3__possibility-img{
     width: 100%;

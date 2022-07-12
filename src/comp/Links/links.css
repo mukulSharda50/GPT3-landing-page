@@ -1,0 +1,19 @@
+
+.gpt3__footer-links h5{
+    font-family: 'Manrope';
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+.gpt3__footer-links ul li {
+    list-style: none;
+}
+.gpt3__footer-links ul li:first-child{
+    margin-top: 2rem;
+}
+.gpt3__footer-link-title{
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+    margin-bottom: 1.5rem;
+}
