@@ -3,3 +3,4 @@ A modern UI/UX landing page built in React JS.
 - This page has been styled using Vanilla CSS without media queries.
 
 ## Note: This project is not at all efficiently developed. The sole purpose of the project was to understand the concept behind how different React components work together.
+![Project Preview](/repository/assets/gpt1.png?raw=true)
