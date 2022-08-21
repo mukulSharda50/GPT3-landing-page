@@ -4,3 +4,6 @@ A modern UI/UX landing page built in React JS.
 
 ## Note: This project is not at all efficiently developed. The sole purpose of the project was to understand the concept behind how different React components work together.
 <img src="./src/repository/assets/gpt1.png" alt="Project preview">
+<img src="./src/repository/assets/gpt2.png" alt="Project preview">
+<img src="./src/repository/assets/gpt3.png" alt="Project preview">
+<img src="./src/repository/assets/gpt4.png" alt="Project preview">
